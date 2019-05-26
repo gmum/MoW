@@ -1,6 +1,10 @@
 # Repository info
 This repository contains the implementation of training process described in "One-element Batch Training by Moving Window" which allows reproducing results achieved by CWAE, WAE or SWAE model on MNIST, Fashion MNIST and CIFAR-10 datasets.
 
+<p align="center">
+  <img src="/ffhq_interpolations_large.png"/>
+</p>
+
 # Contents of the repository
 ```
 |-- src/ - folder with python code
